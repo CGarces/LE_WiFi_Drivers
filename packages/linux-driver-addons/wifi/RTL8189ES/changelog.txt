@@ -1,2 +1,5 @@
+101
+- Add kernel 5.2.1
+- Update to 28d8425
 100
 - Initial add-on

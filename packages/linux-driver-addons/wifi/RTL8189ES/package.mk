@@ -2,8 +2,9 @@
 # Copyright (C) 2017-present Team LibreELEC (https://libreelec.tv)
 
 PKG_NAME="RTL8189ES"
-PKG_VERSION="6279391"
-PKG_SHA256="8e1b90ccd232f90bd1dfa5e31d057268ea46ed00274a413966db9e1f1245c18d"
+PKG_VERSION="28d8425"
+PKG_REV="101"
+PKG_SHA256="5e9b9e9b106970d6757beadbe35656461b6fbe1e56696aaa6fd0c78829d630de"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
 PKG_SITE="https://github.com/jwrdegoede/rtl8189ES_linux/"
